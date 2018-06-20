@@ -1,0 +1,39 @@
+header{
+	height: 210px;
+	padding: 10px;
+	margin-bottom: 0px;
+}
+header img{
+	width: 1190px;
+	height: 200px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	display: inline-block;
+}
+body,html{
+padding: 0px;
+border: 1px solid blue;
+	border-radius: 4px;
+	display: inline-block;
+	height: 500px;
+}
+#login-form{
+	padding: 10px;
+	display: inline-block;
+}
+header nav li{
+	display: inline;
+	font-size: 20px;
+	padding-right: 100px;
+}
+body{
+	border: 3px black;
+}
+header,footer{
+background-color: #7ECBF3;
+border: 1px solid blue;
+}
+
+
+
